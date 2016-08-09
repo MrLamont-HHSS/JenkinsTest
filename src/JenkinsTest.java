@@ -18,7 +18,6 @@ public class JenkinsTest {
         // TODO code application logic here
         System.out.println("I like cake! More Text");
         System.out.println("One more change!")
-                
     }
     
 }
