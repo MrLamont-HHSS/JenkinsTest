@@ -16,6 +16,8 @@ public class JenkinsTest {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("I like cake! More Text");
+        System.out.println("One more change!");
     }
     
 }
